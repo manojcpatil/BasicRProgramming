@@ -3,7 +3,7 @@
 * [Unit I: Introduction to R and Basic Data Objects](README.md)
   * [Introduction to R](readme/introduction-to-r.md)
   * [Syntax of R Expressions](readme/syntax-of-r-expressions.md)
-  * [Page 4](readme/page-4.md)
+  * [Data Objects in R](readme/data-objects-in-r.md)
   * [Page 3](readme/page-3.md)
   * [Page 2](readme/page-2.md)
   * [Page 1](readme/page-1.md)

@@ -7,10 +7,6 @@ description: >-
 
 # Syntax of R Expressions
 
-
-
-***
-
 #### Vectors
 
 In R, a **vector** is a fundamental data structure that represents a sequence of elements of the same data type. Vectors can be created using the `c()` function (which stands for concatenate) by specifying the elements inside the parentheses, separated by commas.
