@@ -12,7 +12,7 @@ To create a function library in R, follow these steps:
     * Save these functions in a `.R` script file (e.g., `my_functions.R`).
 
     ```r
-    rCopy code# my_functions.R
+    # my_functions.R
 
     # Function to calculate factorial of a number
     calculate_factorial <- function(n) {
@@ -46,14 +46,14 @@ To use functions from a library in your R script or interactive session:
     * Source the script file containing your functions using `source()`.
 
     ```r
-    rCopy codesource("path/to/my_functions.R")
+    source("path/to/my_functions.R")
     ```
 2.  **Call Functions:**
 
     * Use the functions from the library in your R code.
 
     ```r
-    rCopy code# Calculate factorial of 5 using the library function
+    # Calculate factorial of 5 using the library function
     factorial_5 <- calculate_factorial(5)
     print(factorial_5)  # Output: 120
 
