@@ -121,3 +121,13 @@ ggplot(data, aes(x = x_var, y = y_var)) +
 
 ***
 
+#### Other Useful Functions
+
+1. **aggregate()**
+   * Apply a function to subsets of data.
+2. **apply()**
+   * Apply a function over the margins of an array or matrix.
+3. **lapply()** and **sapply()**
+   * Apply functions to lists or vectors.
+4. **dplyr** and **tidyr**
+   * Packages for data manipulation and transformation (e.g., filtering, summarizing, reshaping).
