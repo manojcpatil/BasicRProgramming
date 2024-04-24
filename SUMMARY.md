@@ -13,6 +13,6 @@
 * [Programming in R and Advanced Data Analysis](programming-in-r-and-advanced-data-analysis/README.md)
   * [Developing Simple R Programs](programming-in-r-and-advanced-data-analysis/developing-simple-r-programs.md)
   * [Defining Operators & Functions](programming-in-r-and-advanced-data-analysis/defining-operators-and-functions.md)
-  * [Page 1](programming-in-r-and-advanced-data-analysis/page-1.md)
-  * [Page](programming-in-r-and-advanced-data-analysis/page.md)
+  * [Function Libraries](programming-in-r-and-advanced-data-analysis/function-libraries.md)
+  * [Data Analysis Tasks](programming-in-r-and-advanced-data-analysis/data-analysis-tasks.md)
 * [Developing Simple R Programs](developing-simple-r-programs.md)
