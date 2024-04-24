@@ -17,5 +17,5 @@
   * [Data Analysis Tasks](unit-iii-programming-in-r-and-advanced-data-analysis/data-analysis-tasks.md)
 * [Unit IV: Probability and Distributions](unit-iv-probability-and-distributions.md)
 * [Exercises 1](exercises-1.md)
-* [Exercise 2](exercise-2.md)
-* [Exercise 3](exercise-3.md)
+* [Exercises 2](exercises-2.md)
+* [Exercises 3](exercises-3.md)
