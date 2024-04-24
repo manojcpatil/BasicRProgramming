@@ -15,4 +15,4 @@
   * [Defining Operators & Functions](programming-in-r-and-advanced-data-analysis/defining-operators-and-functions.md)
   * [Function Libraries](programming-in-r-and-advanced-data-analysis/function-libraries.md)
   * [Data Analysis Tasks](programming-in-r-and-advanced-data-analysis/data-analysis-tasks.md)
-* [Developing Simple R Programs](developing-simple-r-programs.md)
+* [Probability and Distributions](probability-and-distributions.md)
