@@ -1,4 +1,4 @@
-# Exercise 2
+# Exercises 2
 
 #### Question 1:
 
@@ -77,3 +77,12 @@ This function `create_matrix(n, k)` generates an (n \times k) matrix where:
 * The diagonal elements are `k`.
 * The elements immediately to the left of the diagonal are `1`.
 * All other elements are `0`.
+
+
+
+```
+m=diag(3,6)
+m=m+cbind(rep(0,6),diag(1,6,5))
+m=m+rbind(rep(0,6),diag(1,5,6))
+m
+```
