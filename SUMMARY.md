@@ -19,3 +19,7 @@
 * [Exercises 1](exercises-1.md)
 * [Exercises 2](exercises-2.md)
 * [Exercises 3](exercises-3.md)
+* [Exercises 4](exercises-4.md)
+* [Exercises 5](exercises-5.md)
+* [Exercises 6](exercises-6.md)
+* [Page 1](page-1.md)
