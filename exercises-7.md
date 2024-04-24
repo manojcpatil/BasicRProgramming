@@ -1,4 +1,4 @@
-# Page 1
+# Exercises 7
 
 #### Questions and Answers:
 
@@ -86,14 +86,8 @@
     elements_lt_2000 <- d[d < 2000]
     elements_gt_6000 <- sum(d > 6000)
     ```
-6. **Question**: Write a note on control statements in R. **Answer**: Control statements in R allow for conditional execution and iterative operations. Examples include `if`-`else` statements, `for` and `while` loops, and `repeat` loops for control flow.
-7. ```R
-   ```
 
-```
-```
-
-#### Question: Write a note on control statements in R.
+6\. Question: Write a note on control statements in R.
 
 **Answer:**
 

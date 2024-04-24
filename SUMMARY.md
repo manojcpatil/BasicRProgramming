@@ -22,4 +22,4 @@
 * [Exercises 4](exercises-4.md)
 * [Exercises 5](exercises-5.md)
 * [Exercises 6](exercises-6.md)
-* [Page 1](page-1.md)
+* [Exercises 7](exercises-7.md)
